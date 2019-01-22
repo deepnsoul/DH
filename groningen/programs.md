@@ -24,8 +24,8 @@ Introduction
 -	It offers courses for creating, analyzing and visualizing humanities data.
 -	The courses in the program are organised according to three specializations
 	-	**Theory** (Understanding Digital Humanities; Data in Society; Software and Data as Culture)
-	-	**data processing** (Creating Data, Analyzing Data, Visualizing Data)
-	-	**skills** (Database Development, Coding for Humanities, Thesis Preparation)
+	-	**Data processing** (Creating Data, Analyzing Data, Visualizing Data)
+	-	**Skills** (Database Development, Coding for Humanities, Thesis Preparation)
 
 ---
 
@@ -61,7 +61,7 @@ Introduction
 ---
 
 -	이 과정의 목적은 공개 토론과 정책에서 빅데이터의 영향과 역할에 대해 비판적인 학문적 사고를 더욱 발전시키는 데에 있다.
--	학생들은 빅데이터 사회에 대한 유토피아, 디스토피아 리뷰를 살펴보고, 데이터 제작자로서 소셜미디어 뒤에 감춰진 정치와 경제를 개인화된 미디어 사용의 윤리적인 함의와 함께 대규모로 검토하게 돈다.
+-	학생들은 빅데이터 사회에 대한 유토피아, 디스토피아 리뷰를 살펴보고, 데이터 제작자로서 소셜미디어 뒤에 감춰진 정치와 경제를 개인화된 미디어 사용의 윤리적인 함의와 함께 대규모로 검토하게 된다.
 -	알고리즘을 사용하는 기관이 어떻게 운영되고 있는지, 데이터는 누가 소유하고 있고, 누가 데이터를 생산하는지, 누가 데이터를 이해하고 있는지 등에 대한 질문들은 데이터에 대한 비판적 관점을 발전시키는데 핵심적 역할을 할 것이다.
 
 `Data in Society`
@@ -75,4 +75,18 @@ Introduction
 
 -	학생들은 창의적이고 비판적인 방식으로 데이터와 소프트웨어를 사용하는 방법에 중점을 두어 다른 문화권의 핵심 예술작품과 디지털 연구 프로젝트 사례를 배운다.
 -	이러한 사례 연구 중심 세미나로부터 우리는 이러한 작품의 제작과 기능을 뒷받침하는 기술적, 문화적, 예술적 조건을 정의한다.
--	과정의 끝에는 학생들은 그룹으로 5가지 주제(디지털 영화 포렌식|텍스트 및 시각적 매핑|비디오그래픽 작업|시뮬레이션 및 게임|소셜미디어 및 문화 분석) 중 하나를 기반으로 예술작업 또는 연구 프로젝트를 공동으로 제안하고 만든다.
+-	과정의 끝에는 학생들은 그룹으로 5가지 주제(디지털 영화 포렌식 | 텍스트 및 시각적 매핑 | 비디오그래픽 작업 | 시뮬레이션 및 게임 | 소셜미디어 및 문화 분석) 중 하나를 기반으로 예술작업 또는 연구 프로젝트를 공동으로 제안하고 만든다.
+
+#### Data processing
+
+`Collecting Data`
+
+-	It gives an overview of the different types of data that are of interest to the Humanities, and how to digitize data or collect and then store these into a representative and balanced digital dataset.
+-	Manual as well as automatic annotation techniques are discussed and the course also introduces annotation standards and guidelines, as well as mark-up languages.
+-	Further topics that are covered are documenting data with meta-data, legal and ethical issues, dealing with missing and uncertain data, and gathering data from human subjects.
+
+---
+
+-	인문학이 관심을 갖는 다양한 유형의 데이터에 대한 개요와 데이터를 디지털화하고 수집하며, 이를 대표성을 가진 균형 잡힌 디지털 데이터세트로 저장하는 방법에 대해 설명합니다.
+-	수동뿐만 아니라 자동으로 주석을 다는 기술을 논의하고, 주석의 표준과 지침, 마크업 언어에 대해서도 소개한다.
+-	더 나아가서 메타데이터와 같이 기록되는 데이터, 법, 윤리적 이슈, 데이터 누락 및 불확실한 데이터, 사람과 관련된 데이터의 수집 등의 주제를 다룬다.
