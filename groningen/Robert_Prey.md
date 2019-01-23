@@ -12,7 +12,33 @@ Research
 
 ### Publications
 
-#### (2018) From Personal to Personalized Memory: Social Media as Mnemotechnology
+#### (2016) Musica Analytica: The Datafication of Listening
+
+:date: January 2016
+
+:page_with_curl: Networked Music Cultures
+
+:writing_hand: Robert Prey
+
+:link: [View this paper ](https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening/)
+
+`Little Annie project`
+
+-	In the winter of 1938, the ‘Radio Research Project’ was an attempt to understand how Americans listened to the radio so that they could be more effectively targeted by broadcasters and advertisers. **Theodore W. Adorno** assumed the role of Chief of the Music Division.
+-	The project’s crowning achievement was ‘Little Annie’.
+-	Little Annie was a simple electronic device that allowed research subjects listening to a radio show to indicate approval or disapproval with the click of a button.
+-	A rudimentary version of ‘like’ or ‘thumb’ buttons on contemporary music streaming services, Little Annie revolutionised how early radio, film and television audiences were measured.
+-	but, Little Annie did not impress Adorno though. He was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement.Simply put, culture, for Adorno, is immeasurable:
+
+> ‘I reflected that culture was simply the condition that precluded a mentality that tried to measure it’ (cited in Müller-Doohm, 2005, p. 247).
+
+-	What truly distinguishes these services from previous forms of music consumption is the data feedback loop they generate in real time.
+-	This represents a sea change in how the music industry operates. With listeners drowning in choice, ‘what used to be a question of persuasion’, writes Eric Harvey (2014), ‘has become a problem of prediction’.
+-	To date, the subscription model remains a relatively niche market, as most listeners stream music for ‘free’ on ad-supported versions of these platforms.
+-	To increase advertising revenue, streaming services attempt to target ads more precisely at listeners.
+-	Like the personalization of music, the targeting of ads relies on the harvesting and analysis of vast troves of data
+
+---
 
 ### Press/media
 
