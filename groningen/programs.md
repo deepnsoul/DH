@@ -90,3 +90,16 @@ Introduction
 -	인문학이 관심을 갖는 다양한 유형의 데이터에 대한 개요와 데이터를 디지털화하고 수집하며, 이를 대표성을 가진 균형 잡힌 디지털 데이터세트로 저장하는 방법에 대해 설명한다.
 -	수동뿐만 아니라 자동으로 주석을 다는 기술을 논의하고, 주석의 표준과 지침, 마크업 언어에 대해서도 소개한다.
 -	더 나아가서 메타데이터와 같이 기록되는 데이터, 법, 윤리적 이슈, 데이터 누락 및 불확실한 데이터, 사람과 관련된 데이터의 수집 등의 주제를 다룬다.
+
+`Analysing Data`
+
+-	The aim of analyzing data is to reveal relationships, patterns, and trends.
+-	This can be done using statistical techniques that can tell us what relationships seem to exist among certain variables, but also to what level you can trust the answers we are getting. It often involves comparing information with a control group or with a baseline system.
+-	In this course we will mainly be concerned with quantitative data that can be translated into numbers.
+-	Various datasets stemming from different humanities disciplines will be covered. Datasets will be drawn from social media and other sources.
+
+---
+
+-	이 코스의 목적은 데이터 분석을 통해 관계, 패턴, 추세를 밝혀내는 것에 있다.
+-	특정 변수들 간 관계를 파악하는 것 뿐만 아니라, 그것으로부터 도출한 답을 어느 정도까지 신뢰할 수 있는지를 알려주는 통계적 기술을 이용한다. 따라서 조작된 그룹및 기준 시스템의 정보를 비교하는 것이 종종 진행된다.
+-	데이터는 주로 숫자로 변환이 가능한 양적 자료를 이용하고, 여러 인문학 분야의 다양한 데이터세트, 특히 소셜미디어 등으로부터 가져온다.
