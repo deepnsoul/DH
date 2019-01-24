@@ -28,15 +28,42 @@ Research
 -	The project’s crowning achievement was ‘Little Annie’.
 -	Little Annie was a simple electronic device that allowed research subjects listening to a radio show to indicate approval or disapproval with the click of a button.
 -	A rudimentary version of ‘like’ or ‘thumb’ buttons on contemporary music streaming services, Little Annie revolutionised how early radio, film and television audiences were measured.
--	but, Little Annie did not impress Adorno though. He was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement.Simply put, culture, for Adorno, is immeasurable:
+-	but, Little Annie did not impress Adorno though. He was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement.**Simply put, culture, for Adorno, is immeasurable:**
 
 > ‘I reflected that culture was simply the condition that precluded a mentality that tried to measure it’ (cited in Müller-Doohm, 2005, p. 247).
 
--	What truly distinguishes these services from previous forms of music consumption is the data feedback loop they generate in real time.
+-	**What truly distinguishes these services from previous forms of music consumption is the data feedback loop they generate in real time**.
 -	This represents a sea change in how the music industry operates. With listeners drowning in choice, ‘what used to be a question of persuasion’, writes Eric Harvey (2014), ‘has become a problem of prediction’.
 -	To date, the subscription model remains a relatively niche market, as most listeners stream music for ‘free’ on ad-supported versions of these platforms.
 -	To increase advertising revenue, streaming services attempt to target ads more precisely at listeners.
 -	Like the personalization of music, the targeting of ads relies on the harvesting and analysis of vast troves of data
+
+`Datafication of Listening`
+
+how such data is collected and used to personalise the listening and advertising experience at two leading streaming platforms: Spotify and Pandora Internet Radio.
+
+:one: Spotify
+
+-	`The Echo Nest`
+
+	-	Spotify itself had cemented the centrality of data analytics for the streaming sector the year before when it paid a reported $58 million for a little-known startup called ‘The Echo Nest’.
+	-	The Echo Nest’s acoustic analysis software processes and classifies music according to multiple aural factors from its pitch to its tempo to its danceability.
+	-	It then makes connections between that song and other songs with similar progressions or structures.
+	-	At the same time, The Echo Nest platform compiles key words found in descriptions of the music and its creators, and then links them to other artists and songs that have been described with similar key words and phrases.
+	-	This data is used to determine song similarities on a more cultural level.
+	-	Once the world of music has been mapped, The Echo Nest collects a realtime, dynamic record of the type of music fan you are—your music tastes (artists and songs) and music behaviour (favourites, ratings, skips and bans).
+	-	This is called your ‘Taste Profile’. Taste Profiles are organised into music segments.
+	-	What has been described so far clearly has practical use for song or artist recommendations.
+
+-	`Problems: targeting ads`
+
+	-	With the vast majority of listeners opting for the ‘free’, ad-supported version, this has increasingly become a centra question facing Spotify and other similar streaming services.
+	-	Co-founder Brian Whitman even argues that
+	-	> ‘music preference can predict more about you than anything else’
+	-	The Echo Nest attempts to provide a big data solution by utilising predictive modelling to analyse streaming music listening behaviour in order to identify the psychographic characteristics of listeners: personality, values, opinions, attitudes, interests and lifestyles.
+	-	The predictive models that are developed from these incredibly large data sets are continually being trained and validated against ‘ground truth’ survey data.
+
+:two: Pandora Internet Radio
 
 ---
 
