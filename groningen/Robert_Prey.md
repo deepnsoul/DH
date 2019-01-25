@@ -38,6 +38,8 @@ Research
 -	To increase advertising revenue, streaming services attempt to target ads more precisely at listeners.
 -	Like the personalization of music, the targeting of ads relies on the harvesting and analysis of vast troves of data
 
+---
+
 `Datafication of Listening`
 
 how such data is collected and used to personalise the listening and advertising experience at two leading streaming platforms: Spotify and Pandora Internet Radio.
@@ -62,6 +64,19 @@ how such data is collected and used to personalise the listening and advertising
 	-	> ‘music preference can predict more about you than anything else’
 	-	The Echo Nest attempts to provide a big data solution by utilising predictive modelling to analyse streaming music listening behaviour in order to identify the psychographic characteristics of listeners: personality, values, opinions, attitudes, interests and lifestyles.
 	-	The predictive models that are developed from these incredibly large data sets are continually being trained and validated against ‘ground truth’ survey data.
+	-	In this way, The Echo Nest claims to be able to identify ‘statistically meaningful relationships between music taste and non-musical information including age, gender and dozens of lifestyle categories’ (The Echo Nest2014).
+	-	With the help of The Echo Nest’s analytics, Spotify can create dynamic music segments organised by musical genres and behaviour, ad-targeting segments that include demographics and lifestyles, and custom segments based on music listening activity.
+	-	According to a company white paper, these five categories or ‘Taste Profile Attributes’ (TPA)—are
+		-	‘Adventurousness’: how open the listener is to music outside their ‘musical comfort zone’.
+		-	‘Diversity’: how varied the listener’s preferred styles and genres are.
+		-	‘Freshness’: the listener’s relative preference for new and recent artists vs older music.
+		-	‘Locality’: the relative spread, worldwide, of where the listener’s preferred artists come from.
+		-	‘Mainstreamness’: the listener’s affinity for well-known artists vs obscure artists. (from The Echo Nest2013, p. 4)
+	-	TPA were developed to helpmusic streaming servicesfigure out who high-value listeners will be early on, so that they can be proactively focused on, instead of those listeners who will contribute little advertising value to a service.
+	-	This is an example of what communications scholar Joseph Turow (2008, p. 1) describes as **‘marketing discrimination’**, whereby
+	-	> ‘marketers increasingly use computer technologies to generate ever more carefully defined customer categories or niche that tag consumers as desirable or undesirable for their business’.
+
+(PDF) Musica Analytica: The Datafication of Listening. Available from: https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening [accessed Jan 25 2019].
 
 :two: Pandora Internet Radio
 
