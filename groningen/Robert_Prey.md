@@ -61,22 +61,19 @@ how such data is collected and used to personalise the listening and advertising
 
 	-	With the vast majority of listeners opting for the ‘free’, ad-supported version, this has increasingly become a centra question facing Spotify and other similar streaming services.
 	-	Co-founder Brian Whitman even argues that
-	-	> ‘music preference can predict more about you than anything else’
+	-	**‘music preference can predict more about you than anything else’**
 	-	The Echo Nest attempts to provide a big data solution by utilising predictive modelling to analyse streaming music listening behaviour in order to identify the psychographic characteristics of listeners: personality, values, opinions, attitudes, interests and lifestyles.
 	-	The predictive models that are developed from these incredibly large data sets are continually being trained and validated against ‘ground truth’ survey data.
-	-	In this way, The Echo Nest claims to be able to identify ‘statistically meaningful relationships between music taste and non-musical information including age, gender and dozens of lifestyle categories’ (The Echo Nest2014).
 	-	With the help of The Echo Nest’s analytics, Spotify can create dynamic music segments organised by musical genres and behaviour, ad-targeting segments that include demographics and lifestyles, and custom segments based on music listening activity.
-	-	According to a company white paper, these five categories or ‘Taste Profile Attributes’ (TPA)—are
-		-	‘Adventurousness’: how open the listener is to music outside their ‘musical comfort zone’.
-		-	‘Diversity’: how varied the listener’s preferred styles and genres are.
-		-	‘Freshness’: the listener’s relative preference for new and recent artists vs older music.
-		-	‘Locality’: the relative spread, worldwide, of where the listener’s preferred artists come from.
-		-	‘Mainstreamness’: the listener’s affinity for well-known artists vs obscure artists. (from The Echo Nest2013, p. 4)
-	-	TPA were developed to helpmusic streaming servicesfigure out who high-value listeners will be early on, so that they can be proactively focused on, instead of those listeners who will contribute little advertising value to a service.
+	-	One of the problems facing the music streaming sector is that the bulk of ad-supported accounts on services like Spotify, Pandora and Deezer are inactive.
+	-	This means that only a small minority of listeners contributes advertising value to such streaming services. These are the ‘committed, engaged’ listeners referred to by The Echo Nest as “high-value” listeners’ listeners who must be distinguished from the “low-value” tourists who disappear from sight’ (The Echo Nest2013).
+	-	By developing a method to identify and represent which categoryeach individual listenerfitsinto, The Echo Nest claims that it can then help music streaming services ‘execute strategies focused specifically on acquiring, engaging, and maximizing the ARPU [average revenue per user] of the likely high value users’
+	-	They can be proactively focused on, instead of those listeners who will contribute little advertising value to a service.
 	-	This is an example of what communications scholar Joseph Turow (2008, p. 1) describes as **‘marketing discrimination’**, whereby
-	-	> ‘marketers increasingly use computer technologies to generate ever more carefully defined customer categories or niche that tag consumers as desirable or undesirable for their business’.
-
-(PDF) Musica Analytica: The Datafication of Listening. Available from: https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening [accessed Jan 25 2019].
+	-	**‘marketers increasingly use computer technologies to generate ever more carefully defined customer categories or niche that tag consumers as desirable or undesirable for their business’.**
+	-	Once a streaming service identifies and separates ‘high-value’ listeners from ‘low-value’ listeners, the next step is once again to create and identify interest and affinity segments for the high-value listeners.
+	-	The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach—or more accurately,thinkthey can reach—high-value listeners.
+	-	In short, music streaming space is not only horizontally segmented via consumer categories, it is also vertically ordered via hierarchies of listener value and projections of future worth.
 
 :two: Pandora Internet Radio
 
