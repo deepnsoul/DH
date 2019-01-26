@@ -72,10 +72,29 @@ how such data is collected and used to personalise the listening and advertising
 	-	This is an example of what communications scholar Joseph Turow (2008, p. 1) describes as **‘marketing discrimination’**, whereby
 	-	**‘marketers increasingly use computer technologies to generate ever more carefully defined customer categories or niche that tag consumers as desirable or undesirable for their business’.**
 	-	Once a streaming service identifies and separates ‘high-value’ listeners from ‘low-value’ listeners, the next step is once again to create and identify interest and affinity segments for the high-value listeners.
-	-	The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach—or more accurately,thinkthey can reach—high-value listeners.
+	-	The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach or more accurately,thinkthey can reach high-value listeners.
 	-	In short, music streaming space is not only horizontally segmented via consumer categories, it is also vertically ordered via hierarchies of listener value and projections of future worth.
 
 :two: Pandora Internet Radio
+
+-	`The Music Genome Project`
+
+	-	Pandora’s ability to dissect music and to draw correlations between it is dependent on its unique contribution to music taxonomy. Pandora organizes music by musical traits, or ‘genes’.
+	-	According to the patent application for the Music Genome Project, the number of genes differs widely between musical genres.
+	-	The construction of a music genome is incredibly labour intensive and Pandora does not use machine listening or other forms of automated data extraction.
+	-	Once all the attributes for a particular song have been entered, the song is placed topographically within a set of other similar songs using a distance function.
+	-	Once the algorithmically chosen song begins to play, the listener is able to give the song a thumbs up if he or she likes it, or a thumbs down if he or she does not.
+	-	Every single interaction affects the next song that is delivered to the listener.
+
+-	`Data-Driven Advertising`
+
+	-	Pandora has discovered **‘that the world of playing the perfect music to people and the world of playing perfect advertising to them are strikingly similar’ (Singer2014).**
+	-	Pandora has also been digging into its first-party data in order to segment listeners into categories that online advertisers are accustomed to.
+	-	Pandora has been steadily rolling out new ad-targeting segments and planning to segment listeners with high household incomes, identified via a combination of census data, registered user information and music taste.
+	-	**Pandora has learnt that listeners who exhibit more eclectic music tastes tend also to have higher incomes than the average listener.**
+	-	According to the anthropologist Nick Seaver, **Pandora applies a diversity metric to rank the range of a particular listener’s music taste**.
+	-	**‘A higher diversity score’, remarks Seaver, ‘should indicate a higher social status, which means that these listeners can have more expensive ads sold against them’** (as cited in Harvey2014).
+	-	Relatively simple correlations between age and music listening behaviour can also provide highly informative insights, according to Pandora.
 
 ---
 
