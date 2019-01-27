@@ -96,6 +96,39 @@ how such data is collected and used to personalise the listening and advertising
 	-	**‘A higher diversity score’, remarks Seaver, ‘should indicate a higher social status, which means that these listeners can have more expensive ads sold against them’** (as cited in Harvey2014).
 	-	Relatively simple correlations between age and music listening behaviour can also provide highly informative insights, according to Pandora.
 
+`Political Ad Targeting`
+
+-	It is clear thatmusic streaming services have made much of the assumption that our taste in music reveals who we really are.
+-	Itshould therefore not be asurpriseto learn that the relationship between music taste and political values is a hot topic for music data analysis.
+-	In early 2014, Pandora launched a new ad service aimed at helping political advertisers target Democrat or Republican voters.
+-	The service first looks at election result data for a listener’s zip code, determining whether a listener’s county leans Republican or Democrat.
+-	It has more recently begun supplementing this data with information about users’ music tastes and other attributes to create a more valuable profile for advertisers.
+-	It is perhaps no surprise that country music fans lean Republican whereas jazz, reggae and electronic music fans tend to vote for Democrats.
+-	Pandora claims that it can more precisely locate listeners on the political spectrum by looking at how diverse their music tastes are and the type of music they prefer within that range.
+
+`Conclusion`
+
+-	The datafication of listening is a remarkably recent development with transformative implications for marketers, the music industry and music fans.
+-	With online music streaming, all listening time has become data-generating time.
+-	As Paul Lamere of The Echo Nest discloses, ‘every time a listener adjusts the volume ... every time they skip a song, every time they search for an artist, or whenever they abandon a listening session, they are telling us a little bit about their music taste’(Lamere2014).
+-	Nick Prior (2013, p. 189) writes that ‘music itself and our encounters with it are far more complex than can be conveyed through the idea of social origins, let alone statistical data sets and genre categorizations’.
+-	Prior’s assessment may be music to the ears of readers disturbed by the description of how streaming listeners are being measured, categorised and targeted
+-	Nevertheless, particularly for an ad revenue–dependent streaming service such as Pandora, the point is not so much whether ‘reality’ is being accurately reflected, but whether advertisers (and investors) are sufficiently convincedof the service’s data wizardry.
+-	Furthermore, data is never simply constituted by ‘reality’, it is always at the same time constitutive of ‘reality’. Following Eli Pariser’s (2011) persuasive argument in The Filter Bubble, the organisation of taste throughincreasinglydetailed measurement and personalisation appears to be leading us towards an increasingly segmented society.
+-	At an individual level, the ads that result from Spotify’s mischaracterisation of you as a ‘Gamer’ may cause mild annoyance, but from a sociological perspective, right or wrong, the result is the same further segmentation.
+-	Algorithms have structural implications because they stack onto and amplify already existing differences.
+-	Thus, the categorisation of listeners’ ‘musical identity’ not only reflects social divisions but reinforces and even produces new divisions.
+-	Finally, as with every case of data mining, there is also the issue of ‘function creep’ the slow but steady widening of a system or technology beyond its originally intended purpose.
+-	Listener data may sit in Spotify or Pandora’s database, or it may one daymigrate out, as previously undetermined uses for correlating music taste with some other aspect of our lives are discovered.
+-	Discovering unanticipated patterns is precisely what data mining is designed to do.
+-	Data-driven music streaming services are but one example of how we are increasingly generating digital traces as we go about our everyday lives, engaged in everyday activities.
+-	As a result, the datafication of listening has potential implications that extend far beyond music or adpersonalisation.
+-	Little Annie, it appears, grew up to bequeath a large extended family of methods; methods that measure what Adorno always insisted was immeasurable.
+
+---
+
+:thinking:
+
 ---
 
 ### Press/media
