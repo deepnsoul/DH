@@ -16,11 +16,11 @@ Research
 
 :date: January 2016
 
-:page_with_curl: Networked Music Cultures
+:page_with_curl: Networked Music Cultures p. 31-48
 
 :writing_hand: Robert Prey
 
-:link: [View this paper ](https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening/)
+:link: [View this Chapter ](https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening/)
 
 `Little Annie project`
 
@@ -124,6 +124,49 @@ how such data is collected and used to personalise the listening and advertising
 ---
 
 :thinking:
+
+---
+
+### (2016) Henri Lefebvre and the Production of Music Streaming Spaces
+
+:date: March 2016
+
+:page_with_curl: Sociologica. 9, 3, p.1-22
+
+:writing_hand: Robert Prey
+
+:link: [View this Article ](https://www.researchgate.net/publication/299533970_Henri_Lefebvre_and_the_Production_of_Music_Streaming_Spaces)
+
+`Introduce`
+
+<details>
+
+<summary> click to expand </summary>
+
+-	Human reasoning is innately spatial.
+-	W]e are embodied, situated beings, who comprehend even disembodied commu-nications through the filter of embodied, situated experience [Cohen 2007, 213].
+-	This appears to be why we constantly invoke place- and space-based metaphorsto describe our online experiences Lefebvre argued that capitalism is notjust about the production of things in space but, perhaps even more importantly,capitalism is about the production of space.
+-	Lefebvre insisted on examining the political economy of spaceand what he called the “explosion of spaces” precipitated by capitalism.
+-	We can describe the emergence of the Internet as a contemporary, “virtual,”manifestation of the “explosion of spaces”
+-	Lefebvre’s theoretical approach positsspace not as a fixed entity that “pre-exists” human interaction, but as a dynamic set ofrelations, actively produced through sociality, in a constantly mutating process
+-	this paper will demonstrate how Lefebvre can help generate a morecritical understanding of contemporary music streaming services
+
+</details>
+
+'The Production of Music Streaming Spaces'
+
+<details>
+
+<summary> click to expand </summary>
+
+-	Music streaming services can be characterized in Lefebvrian terms as “abstractspaces.” Abstract space is the space of capitalism
+-	Music streaming services would not exist today had it not been for the massivedisruption precipitated by Napster and its peer-to-peer (P2P) successors at the turnof the century.
+-	The purpose of Napster, according to its founder Shawn Fanning, wasas much about creating a community as it was about making music more accessible.
+-	we can understand Napster andsubsequent file sharing services, in Lefebvrian terms, as “social spaces” producedaround the practice of sharing music.
+-	The recording industry has largely conceded that if musiccan no longer be exchanged as a commodity, then the focus should shift towardscommodifying the very spaces of music consumption.
+-	bstract space is instrumentalspace “manipulated by all kinds of authorities” [Lefebvre 1991, 51]. This sets abstractspace against “social space”
+
+</details>
 
 ---
 
