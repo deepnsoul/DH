@@ -141,7 +141,7 @@ how such data is collected and used to personalise the listening and advertising
 
 <details>
 
-<summary> click to expand </summary>
+<summary> show details </summary>
 
 -	Human reasoning is innately spatial.
 -	W]e are embodied, situated beings, who comprehend even disembodied commu-nications through the filter of embodied, situated experience [Cohen 2007, 213].
@@ -153,11 +153,11 @@ how such data is collected and used to personalise the listening and advertising
 
 </details>
 
-'The Production of Music Streaming Spaces'
+`1. The Production of Music Streaming Spaces`
 
 <details>
 
-<summary> click to expand </summary>
+<summary> show details </summary>
 
 -	Music streaming services can be characterized in Lefebvrian terms as “abstractspaces.” Abstract space is the space of capitalism
 -	Music streaming services would not exist today had it not been for the massivedisruption precipitated by Napster and its peer-to-peer (P2P) successors at the turnof the century.
@@ -165,6 +165,44 @@ how such data is collected and used to personalise the listening and advertising
 -	we can understand Napster andsubsequent file sharing services, in Lefebvrian terms, as “social spaces” producedaround the practice of sharing music.
 -	The recording industry has largely conceded that if musiccan no longer be exchanged as a commodity, then the focus should shift towardscommodifying the very spaces of music consumption.
 -	bstract space is instrumentalspace “manipulated by all kinds of authorities” [Lefebvre 1991, 51]. This sets abstractspace against “social space”
+
+</details>
+
+`2. Lefebvre  and  Spatial  Trialectics:  Perceived,  Conceived  and  LivedSpace`
+
+<details>
+
+<summary> show details </summary>
+
+-	to explore music streaming spaces from a Lefebvrianperspective is to explore the production of such spaces
+-	helpful model to help us think through the complexity of howall spaces are produced. This model – Lefebvre’s “trialectics of space”
+-	space is produced by and productive of a dynamic interplay of material, conceptual,and experiential processes [Nunes 2006, xxi].
+-	efebvre [1991, 38-39] referred to these three processes, or “dimensions” ofsocial space as “spatial practice” [space as perceived through our senses], “represen-tations of space” [space as conceived] and “representational spaces” [space as lived].In other words, space is produced at the nexus where form, concept and practiceintersect.
+
+</details>
+
+`3. Space as Perceived`
+
+<details>
+
+<summary> show details </summary>
+
+-	This phenomenological dimension of spatial productionrefers to aspects of space that can be grasped by the senses. As Schmid explains:
+-	[i]t comprises everything that presents itself to the senses; not only seeing but hear-ing, smelling, touching, tasting [2008, 39-40].
+-	“[P]erception not only takes place in the mind but is based on a concrete, producedmateriality” [ibidem, 38].
+-	[t]his sensuously perceptible aspect of space directly relates to the materiality of the“elements” that constitute “space” [ibidem, 39].
+-	our attention is drawn to the interface of the particular technologies weuse to access streaming services.
+-	n taking a Lefebvrian approach to space it would be misguided to see theinterface as the space however. Instead, we need to ask ourselves how we perceive theinterface and how this contributes to the production of abstract space.
+-	On the personal computer therefore, perceived space isheavily biased towards visual perception.
+-	on Spotify, Rdio, Deezer andother “on-demand” streaming services, the listener actively shapes the layout of theinterface: building personal playlists, downloading apps, and following friends.9 Inshort, these services are designed for a “lean-forward” experience. Within the seemingly innocent descriptions of“lean-forward” and “lean-back” we can detect a particular “conceived space,” onethat proposes an ideal mode of attention: active versus passive. Richardson [2010]reminds us, the “embodied orientation we have towards different kinds of media in-terfaces, and the immersive investment of the eyes, ears and hands required of inter-active screens” partially determines how much, and what type of attention we pay toany service. This has important implications for how successfully a streaming serviceis able to produce “abstract space.
+-	ere is an inherent and obvious problem in trying to capture thevisual attention of listeners. Music is usedto produce an environment for most lis-teners. Rather than confront the listener face-to-face, music envelops the listener.
+-	The perceived space of streaming services,in practice, thus shifts from a visual to an aural bias.What interests us here is how algorithmically-enabled music selection con-tributes to the production of abstract space – the space of capitalism
+-	In short, algorithms help “perceived space”adapt itselfto “lived space” in order to produce abstract space.
+-	he rapid adoption of mobile devices – in particular smart phones – has furthertransformed the “perceived space” of streaming spaces.
+-	we are reminded that “digital space” isalways embedded in, and interwoven with, “physical space.”12 This is more than atheoretical claim about the blurring of borders between physical and digital spacesand the arrival of so-called “hybrid spaces” [de Souza e Silva 2006; Frith 2012].1
+-	Lefebvre’s Marxist phenomenology impels us to ask how the shift to mobile streaming– bringing private streaming into public spaces – has affected strategies for producingabstract space.
+-	Spotifyalready tracks user behavior in “physical space
+-	Increasingly, wearable “smart” devices will provide continuous data on behav-ior and context.
 
 </details>
 
