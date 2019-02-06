@@ -129,10 +129,6 @@ how such data is collected and used to personalise the listening and advertising
 
 ---
 
-:thinking:
-
----
-
 ### (2016) Henri Lefebvre and the Production of Music Streaming Spaces
 
 :date: March 2016
@@ -142,6 +138,41 @@ how such data is collected and used to personalise the listening and advertising
 :writing_hand: Robert Prey
 
 :link: [View this Article ](https://www.researchgate.net/publication/299533970_Henri_Lefebvre_and_the_Production_of_Music_Streaming_Spaces)
+
+`Introduction`
+
+-	This paper will demonstrate how Lefebvre can help generate a more critical understanding of contemporary music streaming services
+-	Music streaming services can be characterized in Lefebvrian terms as “abstract spaces.” Abstract space is the space of capitalism
+-	Lefebvre argued that capitalism is not just about the production of things in space but, perhaps even more importantly, capitalism is about the production of space.
+-	Lefebvre insisted on examining the political economy of space and what he called the “explosion of spaces” precipitated by capitalism.
+
+---
+
+-	이 논문은 음악 스트리밍 서비스를 르페브르의 이론에 따라 비판적으로 접근하였다. 
+-	르페르브에 따르면 음악 스트리밍 서비스는 abstract spaces로 규정될 수 있는데, abstract spaces는 곧 자본주의이다.
+-	또한 자본주의는 공간 안에 무엇을 생산하는 것뿐만 아니라, 공간 자체를 생산해내고 있다고 한다.
+-	문제는 자본주의로 인해 생겨난 정지척 경제 공간, 즉 explosion of spaces에 대한 검열이 필요해진 것이다. 
+
+`Theory`
+
+-	Lefebvre [1991, 38-39] referred to these three processes, or “dimensions” of social space as “spatial practice” [space as perceived through our senses], “representations of space” [space as conceived] and “representational spaces” [space as lived].In other words, space is produced at the nexus where form, concept and practice intersect.
+-	Space as Perceived
+
+	-	This phenomenological dimension of spatial production refers to aspects of space that can be grasped by the senses.
+	-	This sensuously perceptible aspect of space directly relates to the materiality of the“elements” that constitute “space” [ibidem, 39].
+	-	We need to ask ourselves how we perceive the interface and how this contributes to the production of abstract space.
+
+-	Space as Conceived
+
+	-	When Lefebvre refers to “conceived space,” he is referring to the dominant“representations of space” that “secrete” society’s spaces. Lefebvre identifies conceived space with certain groups in society.
+
+---
+
+-	모델은 3가지 과정으로 정의되는데 각 각 space as perceived through our senses, space as conceived(representation), space as lived(representational)이다. 
+-	space as perceived 는 말그대로 감각에 의해 인식되는 공간의 측면을 말한다.
+-	이러한 인식적 측면은 당연하게 공간을 구성하는 요소들과 관련이 있다.  
+-	여기서 생각해볼 것은 우리가 인터페이스를 어떻게 인식하는지, 그리고 이것이 abstract space을 생산하는데 어떻게 공헌하는지이다.
+-	르페브르는 conceived space가 사회의 특정 그룹들에 의해 규정되어진다고 한다.
 
 ---
 
