@@ -139,6 +139,10 @@ how such data is collected and used to personalise the listening and advertising
 
 :link: [View this article ](https://www.researchgate.net/publication/299533970_Henri_Lefebvre_and_the_Production_of_Music_Streaming_Spaces)
 
+<details>
+
+<summary> Summary </summary>
+
 `Introduction`
 
 -	This paper will demonstrate how Lefebvre can help generate a more critical understanding of contemporary music streaming services
@@ -186,7 +190,7 @@ how such data is collected and used to personalise the listening and advertising
 -	space as perceived 는 말그대로 감각에 의해 인식되는 공간의 측면을 말한다.
 -	이러한 인식적 측면은 당연하게 공간을 구성하는 요소들과 관련이 있다.  
 -	여기서 생각해볼 것은 우리가 인터페이스를 어떻게 인식하는지, 그리고 이것이 abstract space을 생산하는데 어떻게 공헌하는지이다.
--	abstract space 는 모든 권의들에 의해 조작된 중요한 공간이다. 이는 social space와는 반대되는 개념이다.
+-	abstract space 는 모든 권력들에 의해 조작된 중요한 공간이다. 이는 social space와는 반대되는 개념이다.
 -	르페브르는 conceived space가 사회의 특정 그룹들에 의해 규정되어진다고 한다.
 -	디지털 공간에서는 프로그래머, 디자이너, 엔지니어 등이 conceived space를 만들어내는데 강력한 영향력을 가지고 있다. 
 -	datafication이나 big data는 음악 스트리밍 서비스에서 abstract space 생산에 밀접한 관련이 있다.
@@ -214,6 +218,8 @@ how such data is collected and used to personalise the listening and advertising
 -	정리하자면, 스포티파이는 그들의 서비스를 lived space로 만들었다.
 -	즉, 음악스트리밍은 perceived와 conceived에 그치지 않고 lived space를 달성이라는 목표를 가지고 있다. 이를 위해 사용자간의 차이를 구분하고 그들을 특정 니즈와 갈망, 새로운 개념의 공간을 만드는 체화된 인간의 모습으로 맞춘다.
 -	질적부분은 결코 양적 측정에 의해 완전히 흡수될 수 없다. 소외된 공간이라 여겨지는 abstract spaces에 대한 비평은 social space를 건설하는 것의 중요성에 집중해야 한다는 것이다. 이는 인간에게 의미있는 것의 실현을 촉진하려고 시도하는 모든 공간과 음악을 위해 중요하다.  
+
+</details>
 
 ---
 
