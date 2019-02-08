@@ -10,70 +10,15 @@ Robert Prey :man_teacher:
 Publications
 ------------
 
-### (2016) Musica Analytica: The Datafication of Listening
+### (2017) Nothing personal: algorithmic individuation on music streaming platforms
 
-:date: January 2016
+:date: November 2017
 
-:page_with_curl: Networked Music Cultures p. 31-48
+:page_with_curl: Media Culture & Society 40(1):016344371774514
 
 :writing_hand: Robert Prey
 
-:link: [View this article ](https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening/)
-
-<details>
-
-<summary> Summary </summary>
-
-`Introduction`
-
--	The ‘Radio Research Project’ was an attempt to understand how Americans listened to the radio so that they could be more effectively targeted by broadcastersand advertisers. Adorno assumed the role of Chief of the Music Division.
--	Little Annie was a simple electronic device that allowed research subjects listening to a radio show to indicate approval or disapproval with the click of a button. A rudimentary version of ‘like’ or ‘thumb’ buttons on contemporary music streaming services, Little Annie revolutionised how early radio, film and television audiences were measured. -he was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement. Simply put, culture, for Adorno, is immeasurable: ‘I reflected that culture was simply the condition that precluded a mentality that tried to measure it’ (cited in Müller-Doohm,2005, p. 247).
--	What truly distinguishes these services from previous forms of music consumption, however, is the data feedback loop they generate in real time. On contemporary music streaming services all listening time is data-generating time.
--	how such data is collected and used to personalise the listening and advertising experience at two leading streaming platforms: Spotify and Pandora Internet Radio.
-
----
-
--	Theodore Adorno는 1938년부터 시작된 라디오 리서치 프로젝트에 참여했는데, 프로젝트의 목표는 광고주와 방송사가 효과적으로 고객을 타켓팅하는 것이었다.
--	프로젝트는 Little Annie라는 참가자가 라디오 쇼에 대해서 승인 버튼을 눌렀는지 아니면 거절을 눌렀는지 알려주는 전자장치를 이용했다. 이것은 오늘날의 좋아요의 초기 버전이라고 볼 수 있고, 사용자 측정을 시도했다는 점에서 혁명적이었다.
--	그러나 adorno는 문화산업을 특정 형태로 측정하는 Little Annie에 부정적이었다. 그는 문화는 측정할 수 없다고 하면서 이러한 측정은 정신적인 부분은 간과한 것이라고 했다. 
--	음악 스트리밍 서비스가 기존의 음악 소비와 구별되는 특징은 이들은 데이터를 실시간으로 생산하고 있다는 점이다. 
--	여기서는 Spotify와 Pandora의 음악 듣기의 datafication이 어떻게 이루어지고 있는지 살펴보려고 한다. 
-
-`Analysis`
-
--	Co-founder Brian Whitman even argues that ‘music preference can predict more about you than anything else’ (as cited in Vanderbilt2014).
--	By developing a method to identify and represent which category each individual listener fits into, The Echo Nest claims that it can then help music streaming services ‘execute strategies focused specifically on acquiring, engaging, and maximizing the ARPU [average revenue per user] of the likely high-value users’ (ibid.).
--	Once a streaming service identifies and separates ‘high-value’ listeners from ‘low-value’ listeners, the next step is once again to create and identify interest and affinity segments for the high-value listeners. The Echo Nest has developed a set of affinity models to do just this.9The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach—or more accurately,think they can reach—high-value listeners.
--	It is clear that music streaming services have made much of the assumption that our taste in music reveals who we really are. It should therefore not be a surprise to learn that the relationship between music taste and political values is a hot topic for music data analysis.
--	Pandora claims that it can more precisely locate listeners on the political spectrum by looking at how diverse their music tastes are and the type of music they prefer within that range.
--	it has more recently begun supplementing this data with information about users’ music tastes and other attributes to create a more valuable profile for advertisers.
-
----
-
--	음악 취향은 다른 요인보다 개인에 대해서 더 많은 것을 예측할 수 있다. (이것이 본 논문에서 음악 스트리밍 서비스의 datafication 문제제기하는 중요한 원인으로 보인다.)
--	또한 개별 이용자는 음악스트리밍에서 ARPU 또는 활동 정도에 따른 가치 평가를 받게 되었다.
--	음악 스트리밍 서비스는 가치평가에서 더 나아가서, high-value 리스너를 위한 친근한 분류를 진행한다. 이는 모두 광고주에게 더 높은 비용을 받기 위함이다.
--	음악 취향을 통해 얼마만큼 우리가 누구인지 잘 가정할 수 있기 때문에 음악 데이터 분석은 정치적인 가치로 인해 주요 논의 대상이 될 수 밖에 없다. 
--	예를 들어 좋아하는 음악 장르나 음악 취향의 다양성을 통해 어떤 정치적 사상을 가졌는지도 예측이 가능하다.
--	판도라는 우리가 매일 듣는 음악에 정치적 광고까지 침투시켰다. 그리고 그것은 위치, 음악 취향 데이터가 합쳐져 광고주에게 더욱 값진 프로필을 생성한다. 
-
-`Conclusion`
-
--	Nick Prior (2013, p. 189) writes that ‘music itself and our encounters with it are far more complex than can be conveyed through the idea of social origins, let alone statistical data sets and genre categorizations’.
--	Nevertheless, particularly for an ad revenue–dependent streaming service such as Pandora, the point is not so much whether ‘reality’ is being accurately reflected, but whether advertisers (and investors) are sufficiently convinced of the service’s data wizardry.
--	Algorithms have structural implications because they stack onto and amplify already existing differences. Thus, the categorisation of listeners’ ‘musical identity’ not only reflects social divisions (between ‘high-value’ and ‘low-value’ listeners, for example), but reinforces and even produces new divisions.
--	Finally, as with every case of data mining, there is also the issue of ‘function creep’—the slow but steady widening of a system or technology beyond its originally intended purpose.
--	As a result, the datafication of listening has potential implications that extend far beyond music or ad personalisation. These are not issues that Adorno could likely have imagined in the early 1940s, when he resigned from his position at the ‘Radio Research Project’. Little Annie, it appears, grew up to bequeath a large extended family of methods; methods that measure what Adorno always insisted was immeasurable.
-
----
-
--	우리와 음악과의 만남은 통계적 데이터, 장르체계 분류나, 사회적 기원을 통해 전달하는 것보다 훨씬 복잡하다.  
--	즉, 광고 수익에 의존하는 음악 스트리밍 서비스는 현실을 얼마나 정확히 반영하고 있는지에 집중하지 않고, 오히려 데이터 묘기를 통해 광고주를 충분히 납득시키는데 치중하고 있다. 
--	또한, 데이터를 통해 개인화하는 알고리즘은 기존의 차이를 깊게 쌓고, 더욱 증폭시키게 된다. 게다가 리스너를 분류하는 것은 사회의 지위적 구분을 반영하고 있으며, 새로운 구분을 생성하고 강화하고 있다. 
--	데이터 마이닝에서는 'function creep' 의 이슈가 따라오는데, 데이터가 본래의 의도된 목적으로 사용되야한다는 것이다. 그럼에도 스포티파이와 판도라는 리스너의 데이터를 데이터베이스에 저장하고 다른 용도로 사용하는 것이 발견되고 있다. 
--	Adorno가 지적하는 부분은 측정하는 방식에 있다. 그는 문화는 항상 측정불가능하다고 하였다. 개인화를 시도하는 것과 관계없이 Little Annie 처럼 음악을 단순하게 측정하는 방식에 문제가 있다는 것이다. 
-
-</details>
+:link: [View this article ](https://www.researchgate.net/publication/321396713_Nothing_personal_algorithmic_individuation_on_music_streaming_platforms)
 
 ---
 
@@ -166,6 +111,73 @@ Publications
 -	정리하자면, 스포티파이는 그들의 서비스를 lived space로 만들었다.
 -	즉, 음악스트리밍은 perceived와 conceived에 그치지 않고 lived space를 달성이라는 목표를 가지고 있다. 이를 위해 사용자간의 차이를 구분하고 그들을 특정 니즈와 갈망, 새로운 개념의 공간을 만드는 체화된 인간의 모습으로 맞춘다.
 -	질적부분은 결코 양적 측정에 의해 완전히 흡수될 수 없다. 소외된 공간이라 여겨지는 abstract spaces에 대한 비평은 social space를 건설하는 것의 중요성에 집중해야 한다는 것이다. 이는 인간에게 의미있는 것의 실현을 촉진하려고 시도하는 모든 공간과 음악을 위해 중요하다.  
+
+</details>
+
+---
+
+### (2016) Musica Analytica: The Datafication of Listening
+
+:date: January 2016
+
+:page_with_curl: Networked Music Cultures p. 31-48
+
+:writing_hand: Robert Prey
+
+:link: [View this article ](https://www.researchgate.net/publication/308277093_Musica_Analytica_The_Datafication_of_Listening/)
+
+<details>
+
+<summary> Summary </summary>
+
+`Introduction`
+
+-	The ‘Radio Research Project’ was an attempt to understand how Americans listened to the radio so that they could be more effectively targeted by broadcastersand advertisers. Adorno assumed the role of Chief of the Music Division.
+-	Little Annie was a simple electronic device that allowed research subjects listening to a radio show to indicate approval or disapproval with the click of a button. A rudimentary version of ‘like’ or ‘thumb’ buttons on contemporary music streaming services, Little Annie revolutionised how early radio, film and television audiences were measured. -he was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement. Simply put, culture, for Adorno, is immeasurable: ‘I reflected that culture was simply the condition that precluded a mentality that tried to measure it’ (cited in Müller-Doohm,2005, p. 247).
+-	What truly distinguishes these services from previous forms of music consumption, however, is the data feedback loop they generate in real time. On contemporary music streaming services all listening time is data-generating time.
+-	how such data is collected and used to personalise the listening and advertising experience at two leading streaming platforms: Spotify and Pandora Internet Radio.
+
+---
+
+-	Theodore Adorno는 1938년부터 시작된 라디오 리서치 프로젝트에 참여했는데, 프로젝트의 목표는 광고주와 방송사가 효과적으로 고객을 타켓팅하는 것이었다.
+-	프로젝트는 Little Annie라는 참가자가 라디오 쇼에 대해서 승인 버튼을 눌렀는지 아니면 거절을 눌렀는지 알려주는 전자장치를 이용했다. 이것은 오늘날의 좋아요의 초기 버전이라고 볼 수 있고, 사용자 측정을 시도했다는 점에서 혁명적이었다.
+-	그러나 adorno는 문화산업을 특정 형태로 측정하는 Little Annie에 부정적이었다. 그는 문화는 측정할 수 없다고 하면서 이러한 측정은 정신적인 부분은 간과한 것이라고 했다. 
+-	음악 스트리밍 서비스가 기존의 음악 소비와 구별되는 특징은 이들은 데이터를 실시간으로 생산하고 있다는 점이다. 
+-	여기서는 Spotify와 Pandora의 음악 듣기의 datafication이 어떻게 이루어지고 있는지 살펴보려고 한다. 
+
+`Analysis`
+
+-	Co-founder Brian Whitman even argues that ‘music preference can predict more about you than anything else’ (as cited in Vanderbilt2014).
+-	By developing a method to identify and represent which category each individual listener fits into, The Echo Nest claims that it can then help music streaming services ‘execute strategies focused specifically on acquiring, engaging, and maximizing the ARPU [average revenue per user] of the likely high-value users’ (ibid.).
+-	Once a streaming service identifies and separates ‘high-value’ listeners from ‘low-value’ listeners, the next step is once again to create and identify interest and affinity segments for the high-value listeners. The Echo Nest has developed a set of affinity models to do just this.9The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach—or more accurately,think they can reach—high-value listeners.
+-	It is clear that music streaming services have made much of the assumption that our taste in music reveals who we really are. It should therefore not be a surprise to learn that the relationship between music taste and political values is a hot topic for music data analysis.
+-	Pandora claims that it can more precisely locate listeners on the political spectrum by looking at how diverse their music tastes are and the type of music they prefer within that range.
+-	it has more recently begun supplementing this data with information about users’ music tastes and other attributes to create a more valuable profile for advertisers.
+
+---
+
+-	음악 취향은 다른 요인보다 개인에 대해서 더 많은 것을 예측할 수 있다. (이것이 본 논문에서 음악 스트리밍 서비스의 datafication 문제제기하는 중요한 원인으로 보인다.)
+-	또한 개별 이용자는 음악스트리밍에서 ARPU 또는 활동 정도에 따른 가치 평가를 받게 되었다.
+-	음악 스트리밍 서비스는 가치평가에서 더 나아가서, high-value 리스너를 위한 친근한 분류를 진행한다. 이는 모두 광고주에게 더 높은 비용을 받기 위함이다.
+-	음악 취향을 통해 얼마만큼 우리가 누구인지 잘 가정할 수 있기 때문에 음악 데이터 분석은 정치적인 가치로 인해 주요 논의 대상이 될 수 밖에 없다. 
+-	예를 들어 좋아하는 음악 장르나 음악 취향의 다양성을 통해 어떤 정치적 사상을 가졌는지도 예측이 가능하다.
+-	판도라는 우리가 매일 듣는 음악에 정치적 광고까지 침투시켰다. 그리고 그것은 위치, 음악 취향 데이터가 합쳐져 광고주에게 더욱 값진 프로필을 생성한다. 
+
+`Conclusion`
+
+-	Nick Prior (2013, p. 189) writes that ‘music itself and our encounters with it are far more complex than can be conveyed through the idea of social origins, let alone statistical data sets and genre categorizations’.
+-	Nevertheless, particularly for an ad revenue–dependent streaming service such as Pandora, the point is not so much whether ‘reality’ is being accurately reflected, but whether advertisers (and investors) are sufficiently convinced of the service’s data wizardry.
+-	Algorithms have structural implications because they stack onto and amplify already existing differences. Thus, the categorisation of listeners’ ‘musical identity’ not only reflects social divisions (between ‘high-value’ and ‘low-value’ listeners, for example), but reinforces and even produces new divisions.
+-	Finally, as with every case of data mining, there is also the issue of ‘function creep’—the slow but steady widening of a system or technology beyond its originally intended purpose.
+-	As a result, the datafication of listening has potential implications that extend far beyond music or ad personalisation. These are not issues that Adorno could likely have imagined in the early 1940s, when he resigned from his position at the ‘Radio Research Project’. Little Annie, it appears, grew up to bequeath a large extended family of methods; methods that measure what Adorno always insisted was immeasurable.
+
+---
+
+-	우리와 음악과의 만남은 통계적 데이터, 장르체계 분류나, 사회적 기원을 통해 전달하는 것보다 훨씬 복잡하다.  
+-	즉, 광고 수익에 의존하는 음악 스트리밍 서비스는 현실을 얼마나 정확히 반영하고 있는지에 집중하지 않고, 오히려 데이터 묘기를 통해 광고주를 충분히 납득시키는데 치중하고 있다. 
+-	또한, 데이터를 통해 개인화하는 알고리즘은 기존의 차이를 깊게 쌓고, 더욱 증폭시키게 된다. 게다가 리스너를 분류하는 것은 사회의 지위적 구분을 반영하고 있으며, 새로운 구분을 생성하고 강화하고 있다. 
+-	데이터 마이닝에서는 'function creep' 의 이슈가 따라오는데, 데이터가 본래의 의도된 목적으로 사용되야한다는 것이다. 그럼에도 스포티파이와 판도라는 리스너의 데이터를 데이터베이스에 저장하고 다른 용도로 사용하는 것이 발견되고 있다. 
+-	Adorno가 지적하는 부분은 측정하는 방식에 있다. 그는 문화는 항상 측정불가능하다고 하였다. 개인화를 시도하는 것과 관계없이 Little Annie 처럼 음악을 단순하게 측정하는 방식에 문제가 있다는 것이다. 
 
 </details>
 
