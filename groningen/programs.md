@@ -103,3 +103,17 @@ Introduction
 -	이 코스의 목적은 데이터 분석을 통해 관계, 패턴, 추세를 밝혀내는 것에 있다.
 -	특정 변수들 간 관계를 파악하는 것 뿐만 아니라, 그것으로부터 도출한 답을 어느 정도까지 신뢰할 수 있는지를 알려주는 통계적 기술을 이용한다. 따라서 조작된 그룹및 기준 시스템의 정보를 비교하는 것이 종종 진행된다.
 -	데이터는 주로 숫자로 변환이 가능한 양적 자료를 이용하고, 여러 인문학 분야의 다양한 데이터세트, 특히 소셜미디어 등으로부터 가져온다.
+
+`Visualizing Data`
+
+-	This introductory course unit on the visualization of structured humanities data, which can be about places (geodata), objects, people, or even about data itself (metadata).
+-	It teaches the student not only how structured data and its statistical properties can be visualised, but also how to evaluate humanities data visualizations including interactive ones appearing in the media and in scientific publications.
+-	The unit has a large applied component, in which exercises are conducted and assignments made in Python and ArcGIS environments.
+
+---
+
+-	이 입문 과정은 구조화 된 인문학 데이터의 시각화에 대한 단위로, 장소 (지리 데이터), 대상, 사람 또는 데이터 자체 (메타 데이터)에 관한 것일 수 있다.
+-	구조화 된 데이터 및 그 통계적 특성을 시각화하고 미디어 및 과학 출판물에 나타나는 인터랙티브 한 데이터 시각화를 평가하는 방법을 배운다.
+-	실습과 과제는 일반적으로 Python 및 ArcGIS 환경에서 진행될 것이다.
+
+#### Skills
