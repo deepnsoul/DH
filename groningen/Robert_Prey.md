@@ -22,7 +22,7 @@ Publications
 
 <details>
 
-<summary> summary </summary>
+<summary> Summary </summary>
 
 `Introduction`
 
@@ -57,7 +57,7 @@ Publications
 -	예를 들어 좋아하는 음악 장르나 음악 취향의 다양성을 통해 어떤 정치적 사상을 가졌는지도 예측이 가능하다.
 -	판도라는 우리가 매일 듣는 음악에 정치적 광고까지 침투시켰다. 그리고 그것은 위치, 음악 취향 데이터가 합쳐져 광고주에게 더욱 값진 프로필을 생성한다. 
 
-'Conclusion'
+`Conclusion`
 
 -	Nick Prior (2013, p. 189) writes that ‘music itself and our encounters with it are far more complex than can be conveyed through the idea of social origins, let alone statistical data sets and genre categorizations’.
 -	Nevertheless, particularly for an ad revenue–dependent streaming service such as Pandora, the point is not so much whether ‘reality’ is being accurately reflected, but whether advertisers (and investors) are sufficiently convinced of the service’s data wizardry.
