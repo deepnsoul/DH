@@ -7,12 +7,10 @@ Robert Prey :man_teacher:
 
 :link: [R. Prey profile ](https://www.rug.nl/staff/r.prey/)
 
-Research
---------
+Publications
+------------
 
-### Publications
-
-#### (2016) Musica Analytica: The Datafication of Listening
+### (2016) Musica Analytica: The Datafication of Listening
 
 :date: January 2016
 
@@ -24,106 +22,56 @@ Research
 
 <details>
 
-<summary> show details </summary>
+<summary> summary </summary>
 
-`Little Annie project`
+`Introduction`
 
--	In the winter of 1938, the ‘Radio Research Project’ was an attempt to understand how Americans listened to the radio so that they could be more effectively targeted by broadcasters and advertisers. **Theodore W. Adorno** assumed the role of Chief of the Music Division.
--	The project’s crowning achievement was ‘Little Annie’.
--	Little Annie was a simple electronic device that allowed research subjects listening to a radio show to indicate approval or disapproval with the click of a button.
--	A rudimentary version of ‘like’ or ‘thumb’ buttons on contemporary music streaming services, Little Annie revolutionised how early radio, film and television audiences were measured.
--	but, Little Annie did not impress Adorno though. He was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement.**Simply put, culture, for Adorno, is immeasurable:**
-
-> ‘I reflected that culture was simply the condition that precluded a mentality that tried to measure it’ (cited in Müller-Doohm, 2005, p. 247).
-
--	**What truly distinguishes these services from previous forms of music consumption is the data feedback loop they generate in real time**.
--	This represents a sea change in how the music industry operates. With listeners drowning in choice, ‘what used to be a question of persuasion’, writes Eric Harvey (2014), ‘has become a problem of prediction’.
--	To date, the subscription model remains a relatively niche market, as most listeners stream music for ‘free’ on ad-supported versions of these platforms.
--	To increase advertising revenue, streaming services attempt to target ads more precisely at listeners.
--	Like the personalization of music, the targeting of ads relies on the harvesting and analysis of vast troves of data
+-	The ‘Radio Research Project’ was an attempt to understand how Americans listened to the radio so that they could be more effectively targeted by broadcastersand advertisers. Adorno assumed the role of Chief of the Music Division.
+-	Little Annie was a simple electronic device that allowed research subjects listening to a radio show to indicate approval or disapproval with the click of a button. A rudimentary version of ‘like’ or ‘thumb’ buttons on contemporary music streaming services, Little Annie revolutionised how early radio, film and television audiences were measured. -he was positively horrified by the ‘culture industry’ that grew out of such cybernetic forms of measurement. Simply put, culture, for Adorno, is immeasurable: ‘I reflected that culture was simply the condition that precluded a mentality that tried to measure it’ (cited in Müller-Doohm,2005, p. 247).
+-	What truly distinguishes these services from previous forms of music consumption, however, is the data feedback loop they generate in real time. On contemporary music streaming services all listening time is data-generating time.
+-	how such data is collected and used to personalise the listening and advertising experience at two leading streaming platforms: Spotify and Pandora Internet Radio.
 
 ---
 
-`Datafication of Listening`
+-	Theodore Adorno는 1938년부터 시작된 라디오 리서치 프로젝트에 참여했는데, 프로젝트의 목표는 광고주와 방송사가 효과적으로 고객을 타켓팅하는 것이었다.
+-	프로젝트는 Little Annie라는 참가자가 라디오 쇼에 대해서 승인 버튼을 눌렀는지 아니면 거절을 눌렀는지 알려주는 전자장치를 이용했다. 이것은 오늘날의 좋아요의 초기 버전이라고 볼 수 있고, 사용자 측정을 시도했다는 점에서 혁명적이었다.
+-	그러나 adorno는 문화산업을 특정 형태로 측정하는 Little Annie에 부정적이었다. 그는 문화는 측정할 수 없다고 하면서 이러한 측정은 정신적인 부분은 간과한 것이라고 했다. 
+-	음악 스트리밍 서비스가 기존의 음악 소비와 구별되는 특징은 이들은 데이터를 실시간으로 생산하고 있다는 점이다. 
+-	여기서는 Spotify와 Pandora의 음악 듣기의 datafication이 어떻게 이루어지고 있는지 살펴보려고 한다. 
 
-how such data is collected and used to personalise the listening and advertising experience at two leading streaming platforms: Spotify and Pandora Internet Radio.
+`Analysis`
 
-:one: Spotify
-
--	`The Echo Nest`
-
-	-	Spotify itself had cemented the centrality of data analytics for the streaming sector the year before when it paid a reported $58 million for a little-known startup called ‘The Echo Nest’.
-	-	The Echo Nest’s acoustic analysis software processes and classifies music according to multiple aural factors from its pitch to its tempo to its danceability.
-	-	It then makes connections between that song and other songs with similar progressions or structures.
-	-	At the same time, The Echo Nest platform compiles key words found in descriptions of the music and its creators, and then links them to other artists and songs that have been described with similar key words and phrases.
-	-	This data is used to determine song similarities on a more cultural level.
-	-	Once the world of music has been mapped, The Echo Nest collects a realtime, dynamic record of the type of music fan you are—your music tastes (artists and songs) and music behaviour (favourites, ratings, skips and bans).
-	-	This is called your ‘Taste Profile’. Taste Profiles are organised into music segments.
-	-	What has been described so far clearly has practical use for song or artist recommendations.
-
--	`Problems: targeting ads`
-
-	-	With the vast majority of listeners opting for the ‘free’, ad-supported version, this has increasingly become a centra question facing Spotify and other similar streaming services.
-	-	Co-founder Brian Whitman even argues that
-	-	**‘music preference can predict more about you than anything else’**
-	-	The Echo Nest attempts to provide a big data solution by utilising predictive modelling to analyse streaming music listening behaviour in order to identify the psychographic characteristics of listeners: personality, values, opinions, attitudes, interests and lifestyles.
-	-	The predictive models that are developed from these incredibly large data sets are continually being trained and validated against ‘ground truth’ survey data.
-	-	With the help of The Echo Nest’s analytics, Spotify can create dynamic music segments organised by musical genres and behaviour, ad-targeting segments that include demographics and lifestyles, and custom segments based on music listening activity.
-	-	One of the problems facing the music streaming sector is that the bulk of ad-supported accounts on services like Spotify, Pandora and Deezer are inactive.
-	-	This means that only a small minority of listeners contributes advertising value to such streaming services. These are the ‘committed, engaged’ listeners referred to by The Echo Nest as “high-value” listeners’ listeners who must be distinguished from the “low-value” tourists who disappear from sight’ (The Echo Nest2013).
-	-	By developing a method to identify and represent which categoryeach individual listenerfitsinto, The Echo Nest claims that it can then help music streaming services ‘execute strategies focused specifically on acquiring, engaging, and maximizing the ARPU [average revenue per user] of the likely high value users’
-	-	They can be proactively focused on, instead of those listeners who will contribute little advertising value to a service.
-	-	This is an example of what communications scholar Joseph Turow (2008, p. 1) describes as **‘marketing discrimination’**, whereby
-	-	**‘marketers increasingly use computer technologies to generate ever more carefully defined customer categories or niche that tag consumers as desirable or undesirable for their business’.**
-	-	Once a streaming service identifies and separates ‘high-value’ listeners from ‘low-value’ listeners, the next step is once again to create and identify interest and affinity segments for the high-value listeners.
-	-	The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach or more accurately,thinkthey can reach high-value listeners.
-	-	In short, music streaming space is not only horizontally segmented via consumer categories, it is also vertically ordered via hierarchies of listener value and projections of future worth.
-
-:two: Pandora Internet Radio
-
--	`The Music Genome Project`
-
-	-	Pandora’s ability to dissect music and to draw correlations between it is dependent on its unique contribution to music taxonomy. Pandora organizes music by musical traits, or ‘genes’.
-	-	According to the patent application for the Music Genome Project, the number of genes differs widely between musical genres.
-	-	The construction of a music genome is incredibly labour intensive and Pandora does not use machine listening or other forms of automated data extraction.
-	-	Once all the attributes for a particular song have been entered, the song is placed topographically within a set of other similar songs using a distance function.
-	-	Once the algorithmically chosen song begins to play, the listener is able to give the song a thumbs up if he or she likes it, or a thumbs down if he or she does not.
-	-	Every single interaction affects the next song that is delivered to the listener.
-
--	`Data-Driven Advertising`
-
-	-	Pandora has discovered **‘that the world of playing the perfect music to people and the world of playing perfect advertising to them are strikingly similar’ (Singer2014).**
-	-	Pandora has also been digging into its first-party data in order to segment listeners into categories that online advertisers are accustomed to.
-	-	Pandora has been steadily rolling out new ad-targeting segments and planning to segment listeners with high household incomes, identified via a combination of census data, registered user information and music taste.
-	-	**Pandora has learnt that listeners who exhibit more eclectic music tastes tend also to have higher incomes than the average listener.**
-	-	According to the anthropologist Nick Seaver, **Pandora applies a diversity metric to rank the range of a particular listener’s music taste**.
-	-	**‘A higher diversity score’, remarks Seaver, ‘should indicate a higher social status, which means that these listeners can have more expensive ads sold against them’** (as cited in Harvey2014).
-	-	Relatively simple correlations between age and music listening behaviour can also provide highly informative insights, according to Pandora.
-
-`Political Ad Targeting`
-
--	It is clear that music streaming services have made much of the assumption that our taste in music reveals who we really are.
--	It should therefore not be a surprise to learn that **the relationship between music taste and political values is a hot topic for music data analysis**.
--	In early 2014, Pandora launched a new ad service aimed at helping political advertisers target Democrat or Republican voters.
--	The service first looks at election result data for a listener’s zip code, determining whether a listener’s county leans Republican or Democrat.
--	It has more recently begun supplementing this data with **information about users’ music tastes and other attributes to create a more valuable profile for advertisers.**
--	It is perhaps no surprise that country music fans lean Republican whereas jazz, reggae and electronic music fans tend to vote for Democrats.
+-	Co-founder Brian Whitman even argues that ‘music preference can predict more about you than anything else’ (as cited in Vanderbilt2014).
+-	By developing a method to identify and represent which category each individual listener fits into, The Echo Nest claims that it can then help music streaming services ‘execute strategies focused specifically on acquiring, engaging, and maximizing the ARPU [average revenue per user] of the likely high-value users’ (ibid.).
+-	Once a streaming service identifies and separates ‘high-value’ listeners from ‘low-value’ listeners, the next step is once again to create and identify interest and affinity segments for the high-value listeners. The Echo Nest has developed a set of affinity models to do just this.9The benefit to music streaming services is obvious: brands and advertisers will pay higher ad rates if they can reach—or more accurately,think they can reach—high-value listeners.
+-	It is clear that music streaming services have made much of the assumption that our taste in music reveals who we really are. It should therefore not be a surprise to learn that the relationship between music taste and political values is a hot topic for music data analysis.
 -	Pandora claims that it can more precisely locate listeners on the political spectrum by looking at how diverse their music tastes are and the type of music they prefer within that range.
+-	it has more recently begun supplementing this data with information about users’ music tastes and other attributes to create a more valuable profile for advertisers.
 
-`Conclusion`
+---
 
--	The datafication of listening is a remarkably recent development with transformative implications for marketers, the music industry and music fans.
--	As Paul Lamere of The Echo Nest discloses, ‘every time a listener adjusts the volume ... every time they skip a song, every time they search for an artist, or whenever they abandon a listening session, they are telling us a little bit about their music taste’(Lamere2014).
--	Nick Prior (2013, p. 189) writes that **‘music itself and our encounters with it are far more complex than can be conveyed through the idea of social origins, let alone statistical data sets and genre categorizations’**.
--	Nevertheless, particularly for an ad revenue–dependent streaming service such as **Pandora, the point is not so much whether ‘reality’ is being accurately reflected, but whether advertisers (and investors) are sufficiently convincedof the service’s data wizardry.**
--	Furthermore, data is never simply constituted by ‘reality’, it is always at the same time constitutive of ‘reality’. Following Eli Pariser’s (2011) persuasive argument in The Filter Bubble, **the organisation of taste through increasingly detailed measurement and personalisation appears to be leading us towards an increasingly segmented society.**
--	Algorithms have structural implications because they stack onto and amplify already existing differences.
--	Thus, **the categorisation of listeners’ ‘musical identity’ not only reflects social divisions but reinforces and even produces new divisions.**
--	Finally, as with every case of data mining, there is also the issue of **‘function creep’ the slow but steady widening of a system or technology beyond its originally intended purpose.**
--	Listener data may sit in Spotify or Pandora’s database, or it may one daymigrate out, as previously undetermined uses for correlating music taste with some other aspect of our lives are discovered.
--	Discovering unanticipated patterns is precisely what data mining is designed to do.
--	**As a result, the datafication of listening has potential implications that extend far beyond music or adpersonalisation.**
--	**Little Annie, it appears, grew up to bequeath a large extended family of methods; methods that measure what Adorno always insisted was immeasurable.**
+-	음악 취향은 다른 요인보다 개인에 대해서 더 많은 것을 예측할 수 있다. (이것이 본 논문에서 음악 스트리밍 서비스의 datafication 문제제기하는 중요한 원인으로 보인다.)
+-	또한 개별 이용자는 음악스트리밍에서 ARPU 또는 활동 정도에 따른 가치 평가를 받게 되었다.
+-	음악 스트리밍 서비스는 가치평가에서 더 나아가서, high-value 리스너를 위한 친근한 분류를 진행한다. 이는 모두 광고주에게 더 높은 비용을 받기 위함이다.
+-	음악 취향을 통해 얼마만큼 우리가 누구인지 잘 가정할 수 있기 때문에 음악 데이터 분석은 정치적인 가치로 인해 주요 논의 대상이 될 수 밖에 없다. 
+-	예를 들어 좋아하는 음악 장르나 음악 취향의 다양성을 통해 어떤 정치적 사상을 가졌는지도 예측이 가능하다.
+-	판도라는 우리가 매일 듣는 음악에 정치적 광고까지 침투시켰다. 그리고 그것은 위치, 음악 취향 데이터가 합쳐져 광고주에게 더욱 값진 프로필을 생성한다. 
+
+'Conclusion'
+
+-	Nick Prior (2013, p. 189) writes that ‘music itself and our encounters with it are far more complex than can be conveyed through the idea of social origins, let alone statistical data sets and genre categorizations’.
+-	Nevertheless, particularly for an ad revenue–dependent streaming service such as Pandora, the point is not so much whether ‘reality’ is being accurately reflected, but whether advertisers (and investors) are sufficiently convinced of the service’s data wizardry.
+-	Algorithms have structural implications because they stack onto and amplify already existing differences. Thus, the categorisation of listeners’ ‘musical identity’ not only reflects social divisions (between ‘high-value’ and ‘low-value’ listeners, for example), but reinforces and even produces new divisions.
+-	Finally, as with every case of data mining, there is also the issue of ‘function creep’—the slow but steady widening of a system or technology beyond its originally intended purpose.
+-	As a result, the datafication of listening has potential implications that extend far beyond music or ad personalisation. These are not issues that Adorno could likely have imagined in the early 1940s, when he resigned from his position at the ‘Radio Research Project’. Little Annie, it appears, grew up to bequeath a large extended family of methods; methods that measure what Adorno always insisted was immeasurable.
+
+---
+
+-	우리와 음악과의 만남은 통계적 데이터, 장르체계 분류나, 사회적 기원을 통해 전달하는 것보다 훨씬 복잡하다.  
+-	즉, 광고 수익에 의존하는 음악 스트리밍 서비스는 현실을 얼마나 정확히 반영하고 있는지에 집중하지 않고, 오히려 데이터 묘기를 통해 광고주를 충분히 납득시키는데 치중하고 있다. 
+-	또한, 데이터를 통해 개인화하는 알고리즘은 기존의 차이를 깊게 쌓고, 더욱 증폭시키게 된다. 게다가 리스너를 분류하는 것은 사회의 지위적 구분을 반영하고 있으며, 새로운 구분을 생성하고 강화하고 있다. 
+-	데이터 마이닝에서는 function creep의 이슈가 따라오는데, 데이터가 본래의 의도된 목적으로 사용되야한다는 것이다. 그럼에도 스포파이와 판도라는 리스너의 데이터를 데이터베이스에 저장하고 다른 용도로 사용하는 것이 발견되고 있다. 
+-	Adorno가 지적하는 부분은 측정하는 방식에 있다. 그는 문화는 항상 측정불가능하다고 하였다. 개인화를 시도하는 것과 관계없이 Little Annie 처럼 음악을 단순하게 측정하는 방식에 문제가 있다는 것이다. 
 
 </details>
 
@@ -223,9 +171,10 @@ how such data is collected and used to personalise the listening and advertising
 
 ---
 
-### Press/media
+Press/media
+-----------
 
-#### (2018.12.12.) Why People Love Spotify’s Annual Wrap-Ups
+### (2018.12.12.) Why People Love Spotify’s Annual Wrap-Ups
 
 :newspaper_roll: *The Atlantic*
 
