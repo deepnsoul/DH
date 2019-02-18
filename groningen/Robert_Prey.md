@@ -14,11 +14,80 @@ Publications
 
 :date: November 2017
 
-:page_with_curl: Media Culture & Society 40(1):016344371774514
+:page_with_curl: Media Culture & Society Vol 40, Issue 7, 2018, pp. 1086–1100
 
 :writing_hand: Robert Prey
 
 :link: [View this article ](https://www.researchgate.net/publication/321396713_Nothing_personal_algorithmic_individuation_on_music_streaming_platforms)
+
+<details>
+
+<summary> Summary </summary>
+
+`Introduction`
+
+-	Raymond Williams would likely conclude that on these platforms there are in fact no individuals, but only ways of seeing people as individuals.
+-	These profiles attempt to define us, filtering our encounters with media content and others (Pariser, 2011) and influencing how we see ourselves (Cheney-Lippold, 2011, 2017).
+-	I will compare and contrast the ‘data subject’ that is enacted1 in order to personalize music and ads on these services.
+-	I suggest that we can understand algorithmic subject formation in terms of Simondon’s concept of individuation: a process I refer to as ‘algorithmic individuation’.
+
+---
+
+-	Raymond Williams은 아마존, 넷플릭스, 스포티파이와 같은 플랫폼에는 개인은 없고 오직 개인으로 바라보려는 방식만 있다고 결론지었을 것이다.
+-	Ruppert는 개인들이 식별화 시도의 대상이되어 미디어 기업들에 의해 객관화되고 있다고 한다.
+-	이러한 프로파일들은 우리를 정의하고, 우리가 접하는 미디어 콘텐츠를 필터링 하며, 우리를 자신을 어떻게 바라보는지에 영향을 미친다.  
+-	서비스가 콘텐츠를 어떻게 개인화하는가는 서비스가 음악 청취자 개인을 어떻게 바라보는지에 달려있다. 즉, 이 논문은 두 개의 서비스에서 어떻게 데이터 주체가 정의되고 있는지를 비교한다. 
+-	여기서는 Gilbert Simondon의 individuation 개념을 이용하여 알고리즘의 주체형성을 이해하려고 한다.
+
+`Theory`
+
+-	Williams (2011 [1958]) wrote, ‘… there are in fact no masses, but only ways of seeing people as masses’ (p. 57).
+-	This is what John Cheney-Lippold (2011) describes as a ‘cybernetic relation-ship to identification’ whereby essentialist notions of identity are replaced by ‘pliable behavioral models’ (p. 168).
+-	As fans, we invest so much of ourselves in music (Frith, 1998). ‘We figure music to be a personal expression of our individuality, to be inherently pleasurable and therefore beyond rational measurement’
+-	For Simondon, we are not individuals: the individual subject is an effect of individuation rather than a cause. The ‘individual’ is never given in advance and is never final.
+-	Simondon thus shifts the focus from ontology to ontogenesis – from individuals as a given to individuation as a process of becoming.
+-	When identity is formed without our conscious interaction with others’ writes Cheney-Lippold (2017: 8), ‘we are never free to develop – nor do we know how to develop’.
+
+---
+
+-	사회적 기술 시스템이 거대해지고 있지만 willaims은 그곳에는 대중은 없고, 대중으로 사람들을 보는 방법만 있다고 했다.
+-	Cheney는 본질주의자의 정체성 개념이 유동적인 행동 모델에 의해 대체되는 인공두뇌학의 관계 식별이라고 묘사하였다.
+-	사회학자 Nick Prior는 음악은 우리의 개성을 표현하고 본질적으로 즐거움을 위한 것이기 때문에 이성적으로 측정할 수 없다고 한다. 
+-	Simondon은 우리가 개별이 아니라고 한다. 개별 주체는 원인보다는 개별화의 한 효과라고 볼 수 있다. 개별은 결코 미리 주어진 것이 아니고, 최종적인 것도 아니다. 
+-	따라서 Simondon은 존재론(ontology)에서 개별발생(ontogenesis)로,  주어진 개별에서 과정으로의 개별화로 초첨을 옴겼다.
+-	Cheney는 의식적인 상호작용 없이 정체성이 형성될 때, 우리는 발전에서 자유로울 수 없고, 심지어 어떻게 발전해야하는지도 모르게 된다고 보았다. 
+
+`Conclusion`
+
+-	For Pandora, individual music listeners possess particular essential tastes. In short, Pandora aims to separate taste from cultural influence.
+-	For Spotify, the individual is not only understood in relation to the musical object, but in relation to his or her prior listening behaviors and to other individuals deemed most similar.
+-	what is common to both platforms is a rejection of fixed markers of identity. Increasingly, the individual music listener is understood as having many music identities, rather than one stable identity.
+-	This way of seeing the individual media consumer has fueled what has been called ‘the contextual turn’ (Pagano et al., 2016: 1) in recommender systems.
+-	With the growing importance of context-aware personalization, it would appear that individuals are seen as multiplicities, or in Deleuzian terms, endlessly subdi-vidable ‘dividuals’ (Deleuze, 1992).
+-	This focus on context has important implications for serving listeners with personal-ized advertisements as well
+-	sociologist Nick Prior (2013: 181) explains.From this perspective, in attempting to ‘know’ the individual media consumer, recom-mendation services are committing the cardinal sin of reification: reifying both the sub-ject and the object of media consumption.
+-	The recommendation systems that power personalized media across the web are merely one enabler of individuation
+-	Today, these inter-actions are just as likely to occur online as face-to-face, and the ‘others’ we interact with are increasingly algorithms reflecting back categorized images of our self (Couldry et al., 2016: 121).
+-	What is new about algorithmic individuation is not so much its modulatory nature, but rather that it remains hidden from view from the subject.
+-	Instead of enacting subjectivity through norma-tive discourses that delineate how we ‘ought’ to act, algorithmic individuation con-figures subjectivity by tailoring the ‘conditions of possibility’ (Cheney-Lippold, 2011: 169).
+-	There are in fact no individuals, there are only ways of seeing individuals. There is only algorithmic individuation
+
+---
+
+-	판도라는 리스너가 특정 본질적인 취향을 소유한다고  본다. 결국, 판도라의 목표는 문화적 영향에서 취향을 분리해내는 것에 있다. 
+-	스포티파이의 Discover weekly는 리스너가 음악적 대상과 관련있을 뿐만 아니라, 리스너의 이전 행동들이 가장 유사하게 여겨지는 다른 개인들과도 관련있다고 이해한다.
+-	두 서비스 모두 리스너의 아이덴티티가 고정되어있는 것이 아닌 많은 음악 아이덴티티를 가지고 있는 것으로 가정한다. (이 개념은 context와 연결됨) 
+-	이러한 관점으로 소비자는 바라보는 것은 추천시스템에서 맥락 전환이라는 개념을 부추겼다.
+-	맥락 인식에 따른 개인화의 중요성이 커진다는 의미는 개인이 다수로서 보여지며, 이는 Deleuze의 용어로 끝없이 세분화되는 개인을 말한다. 
+-	맥락에 집중한다는 것은 리스너를 위한 개인화된 광고를 제공하는데 중요한 영향력을 가진다.
+-	추천 시스템은 개별적 소비자를 알기위해 미디어 소비의 주체와 대상 모두 구체화하는 잘못을 저지르고 있다. 
+-	개인화된 미디어의 힘은 단지 한 개별화 조력자에 불과한 것이다.
+-	Cooldry가 말한 것처럼 오늘날 우리는 범주화 자신의 이미지를 반영하는 알고리즘과 상호작용하고 있다.
+-	알고리즘 개별화의 새로운 부분은 그것이 주체로부터, 시야로부터 숨겨진채 존재한다는 것이다. 
+-	주체성을 만들어가는 과정에서 우리가 어떻게 행동을 해야하는지 규범적인 담론 없이, 알고리즘 개별화는 주체성을 단지 가능성이 있는 조건에 맞춰 구성한다.
+-	스트리밍 서비스에는 개별은 없고, 오직 개별으로 보여지는 방법만 있다. 즉, 알고리즘 개별화만 존재한다.  
+
+</details>
 
 ---
 
