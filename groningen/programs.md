@@ -117,3 +117,33 @@ Introduction
 -	실습과 과제는 일반적으로 Python 및 ArcGIS 환경에서 진행될 것이다.
 
 #### Skills
+
+`Coding for Humanities`
+
+-	The aim is to make the students familiar with the range of possibilities and diversity of digital humanities, and to provide them with some practical skills.
+-	The topics that are covered in this course are: file systems and shell, file manipulation, searching in text (regular expressions), simple textual data manipulation, basic procedural programming in Python, and XML markup processing.
+
+---
+
+-	디지털 인문학의 가능 범위와 다양성에 대해 학생들에게 친숙하게 만들고, 실용적 기술을 일부 제공하는 것이 목적이다.
+-	이 과정에서 다루는 주제는 파일 시스템과 쉘, 파일 조작, 텍스트 검색(정규식), 단순 텍스트 데이터 조작, 파이썬의 기본 절차 프로그래밍, XML 마크업 처리.
+
+'Database Design'
+
+-	The course includes coverage of the relational model and SQL.
+-	The course will also feature database design theory based on dependencies and normalization.
+
+---
+
+-	이 과정에서는 관계형 모델과 SQL를 주로 다룬다.
+-	또한 의존성과 정규화를 바탕으로 한 데이터베이스 설계 이론도 소개된다.
+
+`Thesis Lab`
+
+-	In the Thesis Lab students will work on a project involving a digital corpus from within the Humanities, on which they build their thesis.
+-	They will start working on the design of their thesis, including the research question, a theoretical framework and a methodology plus a well-prepared data set.
+
+---
+
+-	Thesis Lab에서는 학생들이 인문학 범위 내에서 디지털 말뭉치가 포함된 프로젝트를 연구할 예정이다.
+-	연구문제, 이론적 틀, 방법론, 데이터세트 정제 등을 포함하여 논문 설계 작업을 진행한다.
